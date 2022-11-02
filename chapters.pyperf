@@ -4,5 +4,10 @@
     <TargetProject>42ac73de-5b4d-433b-8c2c-cc706f346948</TargetProject>
     <FriendlyName>chapters</FriendlyName>
   </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Nik\AppData\Local\Temp\chapters_20221030.vsp</Filename>
+    </Report>
+  </Reports>
   <UseVTune>false</UseVTune>
 </ProfilingTarget>

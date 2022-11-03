@@ -5,7 +5,7 @@
     <ProjectGuid>42ac73de-5b4d-433b-8c2c-cc706f346948</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>chapters1.py</StartupFile>
+    <StartupFile>Chapters1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,8 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="chapters1.py" />
+    <Compile Include="Chapters1.py" />
+    <Compile Include="Chapters2.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.9" />

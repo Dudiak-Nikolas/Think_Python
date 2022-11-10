@@ -2,18 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>42ac73de-5b4d-433b-8c2c-cc706f346948</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>Chapters1.py</StartupFile>
+    <ProjectGuid>1e6535af-55e2-45cf-8fc6-50aa08f4a1f6</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Exercise_1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>chapters</Name>
-    <RootNamespace>Think_Python</RootNamespace>
-    <IsWindowsApplication>True</IsWindowsApplication>
-    <InterpreterId>Global|PythonCore|3.9</InterpreterId>
+    <Name>Chapters 2</Name>
+    <RootNamespace>Chapters 2</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -24,11 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Chapters1.py" />
-    <Compile Include="Chapters2.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <InterpreterReference Include="Global|PythonCore|3.9" />
+    <Compile Include="Exercise_1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

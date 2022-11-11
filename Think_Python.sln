@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "chapters 1", "Think_Python\Chapters 1.pyproj", "{42AC73DE-5B4D-433B-8C2C-CC706F346948}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapters 1", "Think_Python\Chapters 1.pyproj", "{42AC73DE-5B4D-433B-8C2C-CC706F346948}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapters 2", "Chapters 2\Chapters 2.pyproj", "{1E6535AF-55E2-45CF-8FC6-50AA08F4A1F6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapters 3", "Chapters 3\Chapters 3.pyproj", "{8B34FA98-86B0-480B-882A-EA7F9CA15FA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,8 @@ Global
 		{42AC73DE-5B4D-433B-8C2C-CC706F346948}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E6535AF-55E2-45CF-8FC6-50AA08F4A1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E6535AF-55E2-45CF-8FC6-50AA08F4A1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B34FA98-86B0-480B-882A-EA7F9CA15FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B34FA98-86B0-480B-882A-EA7F9CA15FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

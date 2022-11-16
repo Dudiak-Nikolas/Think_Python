@@ -9,6 +9,11 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapters 2", "Chapters 2\Ch
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapters 3", "Chapters 3\Chapters 3.pyproj", "{8B34FA98-86B0-480B-882A-EA7F9CA15FA5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{8487D11D-F3BF-4723-9C30-E9CC83203EF6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
